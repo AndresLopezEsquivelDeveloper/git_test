@@ -1,9 +1,7 @@
 First commit
 Second commit
 Third commit
-<<<<<<< HEAD
 Fourth commit
 Fifth commit
-=======
 Fourth commit from upstream
->>>>>>> upstream/main
+Another commit because I was asked
